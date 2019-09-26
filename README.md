@@ -1,0 +1,1 @@
+slides for Educode 2019, presentation on what is open source, for an audience of teachers.  this was an introductory talk to Nathalie Kuborne presenting on data security for students and schools, open source / privacy-positive options, and how they can start
